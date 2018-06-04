@@ -75,7 +75,7 @@
 								},
 								{
 									"key": "engagement",
-									"value": "/api/v1/engagements/6/",
+									"value": "/api/v1/engagements/44/",
 									"type": "text",
 									"description": ""
 								},
@@ -101,7 +101,7 @@
 									"key": "file",
 									"description": "",
 									"type": "file",
-									"src": "./resources/scan_result.json"
+									"src": "/Users/sandyqx/Downloads/aracni-report.json"
 								}
 							]
 						},
