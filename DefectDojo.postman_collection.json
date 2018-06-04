@@ -101,7 +101,7 @@
 									"key": "file",
 									"description": "",
 									"type": "file",
-									"src": "./resources/scan_rewult.json"
+									"src": "./resources/scan_result.json"
 								}
 							]
 						},
