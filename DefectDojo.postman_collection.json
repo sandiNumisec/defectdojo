@@ -100,7 +100,8 @@
 								{
 									"key": "file",
 									"description": "",
-									"type": "file"
+									"type": "file",
+									"src": "./resources/scan_rewult.json"
 								}
 							]
 						},
